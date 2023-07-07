@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajyot Devanand Pawar</h1>
+<h1 align="center">Hi 👋, I'm Prajyot Pawar</h1>
 <h3 align="center">A passionate Fullstack developer from India, currently looking for opportunities in MERN Stack, Java and .Net Framework</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajyotpawar5135&label=Profile%20views&color=0e75b6&style=flat" alt="prajyotpawar5135" /> </p>
